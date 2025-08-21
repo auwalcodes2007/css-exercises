@@ -1,0 +1,16 @@
+.paragraph {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#second {
+    color: blue;
+    font-size: 36px;
+}
+#forth {
+    background-color: lightgreen;
+    font-weight: 700;
+    font-size: 24px;
+}
+.paragraph.third {
+    font-size: 24px;
+}
